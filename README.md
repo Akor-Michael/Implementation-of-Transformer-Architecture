@@ -67,7 +67,7 @@ The provided code also includes a training loop example. It demonstrates how to 
 
 ## Custom Dataset
 
-The code includes an example of a custom dataset class named `CustomDataset`. You can replace the sample data with your own data to train the model on your specific tasks.
+To use the code you would need a data folder with your own data to train the model on your specific tasks.
 
 ## License
 
